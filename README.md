@@ -14,7 +14,7 @@ Create a new Django project
 Write the needed HTML code.
 
 ## Code:
-'''
+```
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -153,7 +153,7 @@ avr.html
 </p>
 </body>
 </html>
-'''
+```
 
 ## Output:
 ![OUTPUT](./screenshots/out1.png)
